@@ -1,0 +1,5 @@
+Sign up on Github
+Create a personal repository.
+Commit a file.
+Pull the file.
+change stuff.
